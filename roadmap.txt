@@ -1,0 +1,96 @@
+the use of the import statement - https://github.com/KrakenEXE/chapter2-java/blob/master/projectEighteen.java
+line 1-2
+
+instance fields - https://github.com/KrakenEXE/chapter7-java/blob/master/projectTwo/src/projectTwo/Payroll.java
+line 5 - 9
+
+instance methods - https://github.com/KrakenEXE/chapter7-java/blob/master/projectTwo/src/projectTwo/Payroll.java
+line 17 - 43
+
+constructors - https://github.com/KrakenEXE/chapter4-java/blob/master/projectEighteen/src/projectEighteen/RoulettePocket.java
+line 11
+
+one of each of the following:
+if - https://github.com/KrakenEXE/chapter4-java/blob/master/projectEighteen/src/projectEighteen/RoulettePocket.java
+line 12
+
+if-else - https://github.com/KrakenEXE/chapter4-java/blob/master/projectEighteen/src/projectEighteen/RoulettePocket.java
+line 15
+
+if-else-if - https://github.com/KrakenEXE/chapter4-java/blob/master/projectEighteen/src/projectEighteen/RoulettePocket.java
+line 39
+
+switch - https://github.com/KrakenEXE/chapter4-java/blob/master/projectOne/src/projectOne/checkNumbers.java
+line 13 - 37
+
+Comparing Strings - https://github.com/KrakenEXE/restofgrades/blob/master/restofstuff/src/restofstuff/comparestrings.java
+line 5 - 9 
+
+Formatting numbers with DecimalFormat - https://github.com/KrakenEXE/chapter10-java/blob/master/projectThree/src/projectThree/applyDiscount.java
+line 12
+
+One of each of the following:
+While Loop - https://github.com/KrakenEXE/chapter5-java/blob/master/projectNine/src/projectNine/EmployeeStorage.java
+line 32
+
+Do-While Loop - https://github.com/KrakenEXE/chapter7-java/blob/master/projectTwo/src/projectTwo/PayrollDriver.java
+line 16 - 25
+
+For Loop - https://github.com/KrakenEXE/chapter7-java/blob/master/projectTwo/src/projectTwo/PayrollDriver.java
+line 30
+
+Running Total - https://github.com/KrakenEXE/chapter14-test/blob/master/CoinTossSimulation/src/application/TossController.java
+line 70 74 84 88
+
+Sentinel Value - https://github.com/KrakenEXE/chapter5-java/blob/master/projectNine/src/projectNine/EmployeeStorage.java
+line 12 32 35
+
+Overloaded Methods - https://github.com/KrakenEXE/chapter6-java/blob/master/ProjectOne/src/StaticOverloading.java
+line 10 - 12
+
+overloaded Constructers - https://github.com/KrakenEXE/chapter6-java/blob/master/ProjectOne/src/StaticOverloading.java
+line 14 - 20
+
+Static Class Members - https://github.com/KrakenEXE/chapter5-java/blob/master/projectNine/src/projectNine/EmployeeStorage.java
+line 9 - 24
+
+Aggregation - https://github.com/KrakenEXE/chapter6-java/blob/master/ProjectOne/src/StaticOverloading.java
+line 
+
+The this reference variable - https://github.com/KrakenEXE/restofgrades/blob/master/restofstuff/src/restofstuff/thisreference.java
+line 5 - 9
+
+Override the toString method - https://github.com/KrakenEXE/chapter9-java/blob/master/projectFive/src/projectFive/CourseGrades.java
+line 46
+
+overriding the equals method - https://github.com/KrakenEXE/restofgrades/blob/master/restofstuff/src/restofstuff/overrideequals.java
+line 5 - 7
+
+arrays - https://github.com/KrakenEXE/chapter9-java/blob/master/projectFive/src/projectFive/CourseGrades.java
+line 5 22 29 36 43
+
+arraylist - https://github.com/KrakenEXE/chapter7-java/blob/master/projectOne/src/projectOne/RainFall.java
+line 24 
+
+sequential or binary search - https://github.com/KrakenEXE/chapter7-java/blob/master/projectOne/src/projectOne/RainFall.java
+https://github.com/KrakenEXE/restofgrades/blob/master/restofstuff/src/restofstuff/binarysearch.java
+
+selection sort - https://github.com/KrakenEXE/chapter7-java/blob/master/projectOne/src/projectOne/RainFall.java
+line 29 - 47
+
+extending a parent class - https://github.com/KrakenEXE/chapter9-java/blob/master/projectFive/src/projectFive/CourseDriver.java
+line 3
+
+polymorphism - https://github.com/KrakenEXE/chapter9-java/blob/master/projectFive/src/projectFive/CourseGrades.java
+line 8 - 45
+
+interface - https://github.com/KrakenEXE/chapter14-java/tree/master/projectFive/src/application
+
+handling exceptions - https://github.com/KrakenEXE/chapter10-java/blob/master/projectThree/src/projectThree/applyDiscount.java
+
+throwing exceptions - https://github.com/KrakenEXE/chapter10-java/blob/master/projectThree/src/projectThree/applyDiscount.java
+line 25
+
+demonstrate 3 gui labs that utilize different controls - https://github.com/KrakenEXE/chapter14-java/tree/master/projectFive
+							 https://github.com/KrakenEXE/chapter14-java/tree/master/projectFour
+							 https://github.com/KrakenEXE/chapter14-java/tree/master/projectThree
